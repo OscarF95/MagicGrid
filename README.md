@@ -1,2 +1,2 @@
 # MagicGrid App
-iOS app made from a tutorial on Brian Voong’s YouTube channel (https://youtu.be/Wi713xoTVsU).
+iOS app made from a [tutorial](https://youtu.be/Wi713xoTVsU) on Brian Voong’s YouTube channel.
